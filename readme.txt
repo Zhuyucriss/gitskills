@@ -1,2 +1,2 @@
-craeting a new branch is quick and simple
+craeting new branch is quick and simple
 why so serious?
